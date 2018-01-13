@@ -1,0 +1,18 @@
+# PrisonRiots - Configuration
+
+config:
+ # Prefix
+ prefix: ''
+ 
+ permissions:
+  # Join Riots
+  joinriot: ''
+  
+  # Start Riots
+  startriot: ''
+  
+  # End Riots
+  endriot: ''
+  
+  # Enable/Disable Riots
+  toggleriots: 'prisonriots.toggle'
