@@ -1,0 +1,8 @@
+# PrisonRiots - Riots
+
+riots:
+ # How long a Riot event will last for
+ duration: '180' # in seconds
+ 
+ # How many players can join a Riot event
+ slots: '11'
